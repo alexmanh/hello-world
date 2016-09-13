@@ -1,2 +1,2 @@
 # hello-world
-just a test repo
+Write a commit message that describes your changes.
